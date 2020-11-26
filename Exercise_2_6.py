@@ -1,4 +1,4 @@
-#Famous Quote:
+#Famous Quote: 
 
 Famous_person = "M. S. Dhoni"
 
