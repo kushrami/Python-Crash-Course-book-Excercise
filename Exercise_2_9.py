@@ -1,4 +1,4 @@
-#favorite number
+#favorite number 
 
 favorite_number = 4
 
