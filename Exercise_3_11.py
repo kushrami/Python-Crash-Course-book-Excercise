@@ -1,5 +1,5 @@
 #intentional error:
 
-list = []
+list = [] 
 
 print(list[0])
