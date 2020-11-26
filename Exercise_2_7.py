@@ -1,4 +1,4 @@
-#Strinping Names:
+#Strinping Names: 
 
 Person_name = " Chandler Bing "
 
