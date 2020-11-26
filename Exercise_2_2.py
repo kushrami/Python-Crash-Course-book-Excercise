@@ -1,4 +1,4 @@
-#this prigram is simple massage print task. while chaging in between variable value.
+#this prigram is simple massage print task. while chaging in between variable value. 
 message = "Belive In yourself!"
 
 print(message)
