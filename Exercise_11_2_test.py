@@ -1,5 +1,5 @@
 import unittest
-import Excercise_11_2 as module
+import Exercise_11_2 as module
 
 class CityCountry(unittest.TestCase):
     
